@@ -5,3 +5,6 @@
 # except
 !.gitignore
 !Vagrantfile
+!cloneHTTPS.sh
+!cloneSSH.sh
+!generateSSHKey.sh
