@@ -42,15 +42,15 @@
 `tmux kill-session -t <session>` - kill a given session  
 
 
-<kbd>Ctrl</kbd>+<kbd>B</kbd>, <kbd>"</kbd> - split pane with horizontal line  
-<kbd>Ctrl</kbd>+<kbd>B</kbd>, <kbd>%</kbd> - split pane with vertical line  
-<kbd>Ctrl</kbd>+<kbd>B</kbd>, <kbd>left</kbd> - move to left pane  
-<kbd>Ctrl</kbd>+<kbd>B</kbd>, <kbd>right</kbd> - move to right pane  
-<kbd>Ctrl</kbd>+<kbd>B</kbd>, <kbd>up</kbd> - move to pane above  
-<kbd>Ctrl</kbd>+<kbd>B</kbd>, <kbd>down</kbd> - move to pane below  
-<kbd>Ctrl</kbd>+<kbd>B</kbd>, <kbd>x</kbd> - kill current pane  
+<kbd>Ctrl</kbd>+<kbd>b</kbd>, <kbd>"</kbd> - split pane with horizontal line  
+<kbd>Ctrl</kbd>+<kbd>b</kbd>, <kbd>%</kbd> - split pane with vertical line  
+<kbd>Ctrl</kbd>+<kbd>b</kbd>, <kbd>left</kbd> - move to left pane  
+<kbd>Ctrl</kbd>+<kbd>b</kbd>, <kbd>right</kbd> - move to right pane  
+<kbd>Ctrl</kbd>+<kbd>b</kbd>, <kbd>up</kbd> - move to pane above  
+<kbd>Ctrl</kbd>+<kbd>b</kbd>, <kbd>down</kbd> - move to pane below  
+<kbd>Ctrl</kbd>+<kbd>b</kbd>, <kbd>x</kbd> - kill current pane  
 
-<kbd>Ctrl</kbd>+<kbd>B</kbd>, <kbd>c</kbd> - create a new window  
-<kbd>Ctrl</kbd>+<kbd>B</kbd>, <kbd>p</kbd> - go to previous window  
-<kbd>Ctrl</kbd>+<kbd>B</kbd>, <kbd>n</kbd> - go to next window  
-<kbd>Ctrl</kbd>+<kbd>B</kbd>, <kbd>&</kbd> - kill current window        
+<kbd>Ctrl</kbd>+<kbd>b</kbd>, <kbd>c</kbd> - create a new window  
+<kbd>Ctrl</kbd>+<kbd>b</kbd>, <kbd>p</kbd> - go to previous window  
+<kbd>Ctrl</kbd>+<kbd>b</kbd>, <kbd>n</kbd> - go to next window  
+<kbd>Ctrl</kbd>+<kbd>b</kbd>, <kbd>&</kbd> - kill current window        
