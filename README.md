@@ -11,11 +11,11 @@
 
 
 ### How to get a VM Running
-1) Enable virtualization technology on your computer
-    - This will most likely be in your BIOS
-    - Accessing your BIOS is computer specific, but most likely involves tapping a F1-F12 key during bootup.
-    - If this does not work, please consult your specific device manual/google search
-    - If you have a very old kernel/computer, it may not support virtualization  
+1) Enable virtualization technology on your computer  
+    - This will most likely be in your BIOS  
+    - Accessing your BIOS is computer specific, but most likely involves tapping a F1-F12 key during bootup.  
+    - If this does not work, please consult your specific device manual/google search  
+    - If you have a very old kernel/computer, it may not support virtualization    
 2) Install [Virtual Box](https://www.virtualbox.org/wiki/Downloads)  
 3) Install [Vagrant](https://www.vagrantup.com/docs/installation/)  
 
