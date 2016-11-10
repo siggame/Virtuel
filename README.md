@@ -16,9 +16,13 @@
     - Accessing your BIOS is computer specific, but most likely involves tapping a F1-F12 key during bootup.  
     - If this does not work, please consult your specific device manual/google search  
     - If you have a very old kernel/computer, it may not support virtualization    
+    
 2) Install [Virtual Box](https://www.virtualbox.org/wiki/Downloads)  
 3) Install [Vagrant](https://www.vagrantup.com/docs/installation/)  
-4) [Download](https://github.com/siggame/Virtuel/archive/master.zip) the repo  
+
+4) [Download](https://github.com/siggame/Virtuel/archive/master.zip) the repo (& unzip)  
+- You can use git to clone as well: `git clone https://github.com/siggame/Virtuel.git`  
+
 4) Navigate to your desired VM folder -- such as `game`  
 5) Create and configure VM with `vagrant up`  
 6) Connect to the VM with `vagrant ssh`  
