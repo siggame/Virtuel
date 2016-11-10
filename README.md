@@ -21,7 +21,7 @@
 3) Install [Vagrant](https://www.vagrantup.com/docs/installation/)  
 
 4) [Download](https://github.com/siggame/Virtuel/archive/master.zip) the repo (& unzip)  
-- You can use git to clone as well: `git clone https://github.com/siggame/Virtuel.git`  
+    - You can use git to clone as well: `git clone https://github.com/siggame/Virtuel.git`  
 
 4) Navigate to your desired VM folder -- such as `game`  
 5) Create and configure VM with `vagrant up`  
