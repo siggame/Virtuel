@@ -6,10 +6,10 @@ Vagrant.configure("2") do |config|
     config.vm.box = "ubuntu/xenial64"
 
     config.vm.provision "shell",
-        path: "../scripts/setupRoot.sh",
+        path: "../scripts/setupGameRoot.sh",
         privileged: true
 
     config.vm.provision "shell",
-        path: "../scripts/setup.sh",
+        path: "../scripts/installNvm.sh",
         privileged: false
 end

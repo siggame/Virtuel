@@ -5,7 +5,7 @@ sudo apt-get update
 
 
 echo "#### Installing general things..."
-sudo apt-get -y install git g++ gcc make cmake build-essential tmux vim htop
+sudo apt-get -y install git g++ gcc make cmake build-essential
 
 echo "#### Installing Python Client dependencies..."
 sudo apt-get -y install python python-pip python-dev
