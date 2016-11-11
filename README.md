@@ -14,7 +14,7 @@
 - _game_dev_ - vm for SIG-Game Game Server & Client development
 - _compete_ - vm for MegaMinerAI competitors; supports running all clients & game server
 
-### How to get a VM Running
+### Getting started
 1. Enable virtualization technology on your computer  
   - This will most likely be in your BIOS  
   - Accessing your BIOS is computer specific, but most likely involves tapping a F1-F12 key during bootup.  
@@ -24,6 +24,13 @@
 3. Install [Vagrant](https://www.vagrantup.com/docs/installation/)  
 4. [Download](https://github.com/siggame/Virtuel/archive/master.zip) the repo (& unzip)  
   - You can use git to clone as well: `git clone https://github.com/siggame/Virtuel.git`  
+
+### Simple Usage
+5a. If host is linux, run `./virtuel.sh`  
+5b. If host is windows, run `./virtuel.bat`  
+6. Follow command line wizard   
+
+### Manual Usage
 5. Navigate to your desired VM folder -- such as `compete/vm/`  
   - See available VMs in _Available VMs_ section
   - The directory should contain a `Vagrantfile`
