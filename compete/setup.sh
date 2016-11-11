@@ -3,7 +3,6 @@
 echo "#### Updating..."
 sudo apt-get update
 
-
 echo "#### Installing general things..."
 sudo apt-get -y install git g++ gcc make cmake build-essential
 
