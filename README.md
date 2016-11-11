@@ -24,8 +24,9 @@
 3. Install [Vagrant](https://www.vagrantup.com/docs/installation/)  
 4. [Download](https://github.com/siggame/Virtuel/archive/master.zip) the repo (& unzip)  
   - You can use git to clone as well: `git clone https://github.com/siggame/Virtuel.git`  
-5. Navigate to your desired VM folder -- such as `compete`  
+5. Navigate to your desired VM folder -- such as `compete/vm/`  
   - See available VMs in _Available VMs_ section
+  - The directory should contain a `Vagrantfile`
 6. Create and configure VM with `vagrant up`  
 7. Connect to the VM with `vagrant ssh`  
   - You are now in an Ubuntu environment, even if your _host_ OS is Windows
